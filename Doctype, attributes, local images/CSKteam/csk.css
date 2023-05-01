@@ -1,0 +1,54 @@
+#home{
+    background-color: green;
+    border-radius: 4px;
+    color: white;
+}
+
+#CSKteam{
+    background-color: rgb(255, 255, 20);
+    color: orangered;
+}
+
+#MSDimg{
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px rgb(49, 48, 48);
+}
+
+#RJimg{
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px rgb(49, 48, 48);
+}
+
+#RGimg{
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px rgb(49, 48, 48);
+}
+
+#ARimg{
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px rgb(49, 48, 48);
+}
+
+#MIteam{
+    background-color: green;
+    color: rgb(5, 5, 126);
+    width: 300px;
+    text-align: left;
+    border-radius: 5px;
+}
+
+#RCBteam{
+    background-color: red;
+    color: gold;
+    width: 150px;
+    text-align: left;
+    border-radius: 5px;
+}
+
+#SRHteam{
+    background-color: black;
+    color: orangered;
+    width: 150px;
+    text-align: left;
+    border-radius: 5px;
+}

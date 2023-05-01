@@ -1,0 +1,120 @@
+#IPL{
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 3rem;
+    color: rgb(6, 6, 94);
+    box-shadow: 0px 0px 20px rgb(49, 48, 48);
+}
+
+#IPLdata{
+    background-color: rgb(69, 52, 221);
+    text-align: center;
+    color: white;
+}
+
+#paragraph{
+    color: white;
+}
+
+#IPLname{
+    color: rgb(214, 49, 49);
+}
+
+#csk-logo{
+    border-radius: 50%;
+    border: rgb(214, 13, 13);
+}
+
+#Mumbai-Indians-logo{
+    border-radius: 50%;
+}
+
+#Royal-Challengers-Bangalore-Logo{
+    border-radius: 50%;
+}
+
+#SRH-team-logo{
+    border-radius: 50%;
+}
+
+#MSD{
+    color: yellow;
+}
+
+#RJ{
+    color: yellow;
+}
+
+#RG{
+    color: yellow;
+}
+
+#AR{
+    color: yellow;
+}
+
+#RS{
+    color: rgb(199, 4, 4);
+}
+
+#JB{
+    color: rgb(199, 4, 4);
+}
+
+#TV{
+    color: rgb(199, 4, 4);
+}
+
+#IK{
+    color: rgb(199, 4, 4);
+}
+
+#VK{
+    color: gold;
+}
+
+#Faf{
+    color: gold;
+}
+
+#GM{
+    color: gold;
+}
+
+#MS{
+    color: gold;
+}
+
+#AMK{
+    color: orangered;
+}
+
+#RT{
+    color: orangered;
+}
+
+#UM{
+    color: orangered;
+}
+
+#AS{
+    color: orangered;
+}
+
+#MIteam{
+    color: rgb(6, 6, 94);
+}
+
+#RCBteam{
+    color: red;
+}
+
+#SRHteam{
+    color: orange;
+}
+
+#GTT{
+    text-align: right;
+    color: beige;
+}

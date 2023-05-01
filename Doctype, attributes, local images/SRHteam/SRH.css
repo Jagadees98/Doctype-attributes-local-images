@@ -1,0 +1,55 @@
+#home{
+    background-color: green;
+    border-radius: 4px;
+    color: white;
+}
+
+#SRHteam{
+    background-color: orange;
+    color: black;
+}
+
+#AMKimg{
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px rgb(49, 48, 48);
+}
+
+#RTimg{
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px rgb(49, 48, 48);
+}
+
+#UMimg{
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px rgb(49, 48, 48);
+}
+
+#ASimg{
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px rgb(49, 48, 48);
+}
+
+#CSKteam{
+    background-color: rgb(255, 255, 20);
+    color: orangered;
+    width: 150px;
+    text-align: left;
+    border-radius: 5px;
+}
+
+#MIteam{
+    background-color: rgb(5, 5, 126);
+    color: green;
+    width: 300px;
+    text-align: left;
+    border-radius: 5px;
+}
+
+#RCBteam{
+    background-color: rgb(182, 13, 13);
+    color: gold;
+    width: 150px;
+    text-align: left;
+    border-radius: 5px;
+}
+
